@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 微软雅黑;
+    outline: none;
+}
+
+body {
+    background-color: #e9e8c9;
+}
+
+#wrapper {
+    height: 60px;
+    width: 100%;
+    background-color: #72bfdb;
+}
+
+#wrapper #nav {
+    color: #FFFFFF;
+    line-height: 60px;
+    margin-left: 10%;
+}
+
+#wrapper #nav h3 {
+    text-align: left;
+
+}
+
+#wrapper #content {
+    width: 100%;
+    height: 600px;
+}
+
+#wrapper #content #content-wrapper {
+    background-color: #ffffff;
+    width: 1000px;
+    margin: 80px auto 0 auto;
+}
+
+#wrapper #content #content-wrapper hr{
+    width: 95%;
+}
+
+#wrapper #content #content-wrapper input{
+    background-color: #FFFFFF;
+    border: 1px solid #d9edf7;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+}
+
+#wrapper #content #content-wrapper .row-head input{
+    background-color: #a1b3fc;
+}
+
+#wrapper #content #content-wrapper input:hover{
+    background-color: #a4c3fc;
+}
+
+#wrapper #content #content-wrapper input:active{
+    background-color: #a4c3fc;
+}
+
+#wrapper #content #content-wrapper .row-head {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#wrapper #content #content-wrapper .row-head .col-1 {
+    display: inline-block;
+    width: 31%;
+    padding-left: 20px;
+}
+
+#wrapper #content #content-wrapper .row-head .col-2 {
+    display: inline-block;
+    width: 21%;
+}
+
+#wrapper #content #content-wrapper .row-head .col-3 {
+    display: inline-block;
+    width: 15%;
+}
+
+#wrapper #content #content-wrapper .row-head .col-4 {
+    display: inline-block;
+    width: 100px;
+}
+
+#wrapper #content #content-wrapper .row-head .col-5 {
+    display: inline-block;
+    width: 100px;
+}
+
+#wrapper #content #content-wrapper .table {
+    padding: 10px 20px;
+}
+
+#wrapper #content #content-wrapper .table span:first-child input{
+    width: 15px;
+    height: 15px;
+}
+
+#wrapper #content #content-wrapper .table .col-2 {
+    display: inline-block;
+    width: 30%;
+}
+
+#wrapper #content #content-wrapper .table .col-3 {
+    display: inline-block;
+    width: 22%;
+}
+
+#wrapper #content #content-wrapper .table .col-4 {
+    display: inline-block;
+    width: 14%;
+}
+#wrapper #content #content-wrapper .table .col-5 {
+    display: inline-block;
+    width: 9%;
+}
+#wrapper #content #content-wrapper .table .col-6 {
+    display: inline-block;
+    width: 9%;
+}
+#wrapper #content #content-wrapper .table .col-7 {
+    display: inline-block;
+    width: 9%;
+}
